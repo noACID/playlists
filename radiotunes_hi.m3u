@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1,RadioTunes - 80's Rock Hits
+http://pub2.diforfree.org:8000/radiotunes_80srock_hi
+#EXTINF:-1,RadioTunes - Alternative Rock
+http://pub2.diforfree.org:8000/radiotunes_altrock_hi
+#EXTINF:-1,RadioTunes - Classic Rock
+http://pub2.diforfree.org:8000/radiotunes_classicrock_hi
+#EXTINF:-1,RadioTunes - Hard Rock
+http://pub2.diforfree.org:8000/radiotunes_hardrock_hi
+#EXTINF:-1,RadioTunes - Metal
+http://pub2.diforfree.org:8000/radiotunes_metal_hi
+#EXTINF:-1,RadioTunes - Modern Rock
+http://pub2.diforfree.org:8000/radiotunes_modernrock_hi
+#EXTINF:-1,RadioTunes - New Age
+http://pub2.diforfree.org:8000/radiotunes_newage_hi
+#EXTINF:-1,RadioTunes - Vocal New Age
+http://pub2.diforfree.org:8000/radiotunes_vocalnewage_hi

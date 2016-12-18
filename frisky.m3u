@@ -1,0 +1,10 @@
+#EXTINF:-1,FRISKY | (128 he-aac)
+http://stream.friskyradio.com:8000/frisky_aac_hi
+#EXTINF:-1,FRISKY | (128 mp3)
+http://stream.friskyradio.com:9000/frisky_mp3_hi
+#EXTINF:-1,FRISKY | (128 mp3)
+http://stream2.friskyradio.com/frisky_mp3_hi
+#EXTINF:-1,FRISKY | (128 mp3)
+http://stream2.friskyradio.com:8000/frisky_mp3_hi
+#EXTINF:-1,FRISKY | (64 he-aac)
+http://stream2.friskyradio.com:8000/frisky_aac_low
